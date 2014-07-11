@@ -5,8 +5,15 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/xxx
 https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 
 <info>
-<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel please let us know...On Twitter @opensatuk [/COLOR] [COLOR red]**[/COLOR]</message>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]If you find a none working channel[/COLOR] [COLOR red]**[/COLOR]</message>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]lease let us know...On Twitter @opensatuk - Facebook: opensatuk1 - Email: opensat1@gmail.com[/COLOR] [COLOR red]**[/COLOR]</message>
 <thumbnail>hhttp://fc08.deviantart.net/fs70/i/2013/031/5/0/adults_only_logo_for_web_series_by_magichatcreative-d5tedou.jpg</thumbnail>
+</info>
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]LIVE TV On XBMC - Mag 250 STB - Android - Enigma2 STB & Satellite STB [/COLOR] [COLOR red]**[/COLOR]</message>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]Visit Our Website for more information www.opensat-the1-4.tv[/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail></thumbnail>
 </info>
 
 <directories>
@@ -15,15 +22,15 @@ https://raw.githubusercontent.com/3HeadDog/optv/master/Live%20TV
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsY0GRMlafUd4D55nMWFTte1fVZwTaJDGmSc4iQv7q483rx50MMA</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/adult/master/Live%20Soft%20Adult</link>
 	
-	<name>[COLOR darkorange][B]LIVE Hard TV[/B][/COLOR]</name>
+	<name>[COLOR yellow][B]LIVE Hard TV[/B][/COLOR]</name>
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsY0GRMlafUd4D55nMWFTte1fVZwTaJDGmSc4iQv7q483rx50MMA</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/adult/master/Live%20xxx</link>
 	
-	<name>[COLOR darkorange][B]Videos[/B][/COLOR]</name>
+	<name>[COLOR firebrick][B]Videos[/B][/COLOR]</name>
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsY0GRMlafUd4D55nMWFTte1fVZwTaJDGmSc4iQv7q483rx50MMA</thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/adult/master/Clips</link>
 	
-	<name>[COLOR darkorange][B]Main Lobby[/B][/COLOR]</name>
+	<name>[COLOR skyblue][B]Main Lobby[/B][/COLOR]</name>
 	<thumbnail></thumbnail>
 	<link>https://raw.githubusercontent.com/3HeadDog/optv/master/dir</link>
 	
