@@ -22,7 +22,7 @@ rating=-1.00
 type=video
 name=ExoticaTV
 thumb=
-URL=http://8.12.105.44:8085/udp/239.29.13.13:1234
+URL=
 
 
 # 1920941
@@ -35,33 +35,32 @@ URL=
 type=video
 name=BLUE HUSTLER
 thumb=
-URL=http://91.240.87.34:4001/udp/224.200.202.58:1234
+URL=
 
 rtmp://111.118.21.75:1935/ptv2/phd766
 # 1920941
 type=video
 name=Midnight HD
 thumb=
-URL=rtmp://111.118.21.75:1935/ptv2/phd766
+URL=
 
 # 1920941
 type=video
 name=Visit X Tv
 thumb=
-URL=rtmp://194.116.150.47/live/visitx.stream1
+URL=
 
 # 1920941
 type=video
 name=HUSTLER HD
 thumb=
-URL=http://91.240.87.34:4001/udp/224.200.202.213:1234
+URL=
 
 # 1920941
 type=video
 name=Space Tv
 thumb=
-URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
-
+URL=
 
 # 1920941
 type=video
@@ -83,43 +82,3 @@ name=Priveetv
 thumb=
 URL=
 
-# 1920941
-type=video
-name=Hard X
-thumb=
-URL=http://v6.s1.n10.nl.eprncdn.com/86d284cbde552fc91c40f23078d479b5/538310104e2000/184585.mp4
-
-
-
-
-# 1920941
-type=video
-name=Anal Agenda
-thumb=http://images.excaliburfilms.com/DVD/reviews/imagesBB020609/dvd_3020539D2.jpg
-URL=
-
-
-
-# 1920941
-type=video
-name=Midnight HD
-thumb=
-URL=rtmp://111.118.21.75:1935/ptv2/phd766
-
-# 1920941
-type=video
-name=Visit X Tv
-thumb=
-URL=rtmp://194.116.150.47/live/visitx.stream1
-
-# 1920941
-type=video
-name=X
-thumb=
-
-
-# 1920941
-type=video
-name=Space Tv
-thumb=
-URL=rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.*****etzaa.tv/canales-tv/*****TV3.html
